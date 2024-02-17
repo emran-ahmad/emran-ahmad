@@ -9,7 +9,7 @@ My commitment to performance optimization defines a relentless pursuit of web ex
 
 🛠️ LANGUAGES & TOOLS :
 
-HTML  CSS  JavaScript  TailwindCSS  Git  VSCode  React  BEM  Sass  PostCSS  Redux  jQuery  Gulp and Grunt  RESTful APIs etc.
+HTML  CSS  JavaScript  TailwindCSS  Git  nodejs  Reactjs expressjs  BEM  Sass  PostCSS  Redux RESTful APIs etc.
 
 
 
