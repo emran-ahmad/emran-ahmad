@@ -1,4 +1,4 @@
-About Me
+
 
 Hello, I’m Imran Ahamad 👋,
 
